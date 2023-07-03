@@ -1,0 +1,80 @@
+/* Estilos generales */
+
+html {
+    scroll-behavior: auto !important;
+}
+
+body {
+    background-color: black;
+}
+
+/* Estilos de la barra de navegación */
+
+.navbar-brand {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+}
+
+
+/* Estilos de la sección Nosotros */
+
+#Nosotros h2 {
+    font-weight: 400;
+}
+
+#Nosotros i {
+    text-align: center;
+    width: 100%;
+    color: white;
+}
+
+#Nosotros p {
+    font-weight: 300;
+}
+
+/* Estilos de la sección Destacados */
+
+#Destacados .image-top {
+    height: 150px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#Destacados .card-title {
+    font-family: 'Merriweather', serif;
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+
+#Destacados .card-text {
+    font-family: 'Raleway', serif;
+    font-size: 1rem;
+    font-weight: 300;
+}
+
+/* Estilos de la sección Contacto */
+
+#Contacto label {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    color: white;
+}
+
+#Contacto p {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    color: white;
+}
+
+/* Estilos del footer */
+
+footer h1 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+}
